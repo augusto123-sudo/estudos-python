@@ -1,0 +1,1 @@
+print("Meu primeiro código enviado pelo terminal do Linux!")
