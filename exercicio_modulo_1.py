@@ -46,7 +46,7 @@
 #aluno3 = input('Digite o nome do aluno:').strip()
 #aluno4 = input('Digite o nome do aluno:').strip()
 #lista = [aluno1,aluno2,aluno3,aluno4]
-#random.shuffle(lista)
+#random.shuffle(lista)# Shuffle significa embaralhar.
 #print(f'a ordem da apresentação será:')
 #print(lista)
 
