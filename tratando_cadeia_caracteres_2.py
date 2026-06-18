@@ -13,7 +13,7 @@ print(frase.lower().count('d'))# O programa contou todos os "d" idenpendente de 
 # deixa a frase inteira em minuscula.
 
 # localização(FIND)
-#print(frase.find('logos')) # Mostra em que posição da string(indice) a palavra começa.
+print(frase.find('logos')) # Mostra em que posição da string(indice) a palavra começa.
 
 # transformação (UPPER,LOWER,CAPITALIZE,TITLE)
 print( frase.upper())# Coloca a frase inteira em maiuscula.
@@ -50,7 +50,7 @@ total_letras = len(nome) - nome.count(' ')# A variavél recebeu o total de letra
 #já subtraidos.
 print(f'Quantidade de letras sem espaços :{total_letras}')# Mostra a quantidade de letras sem o espaços
 palavra = nome.split()
-print(f'O primeiro nome te {len(palavra[0])} letras ')# conta a quantidade de letras da palavra da
+print(f'O primeiro nome tem {len(palavra[0])} letras ')# conta a quantidade de letras da palavra da
 # posição (0).
 
 # faça um programa que leia um número de 0 à 9999 e mostre na tela cada um dos dígitos separados.
